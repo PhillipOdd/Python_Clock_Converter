@@ -12,7 +12,7 @@ This code allows you to easily convert 12-hour time to 24-hour time format.
 
 - Python 
 
-## Getting Started
+## Usage
 
 1. Clone the repository:
 
@@ -23,6 +23,7 @@ This code allows you to easily convert 12-hour time to 24-hour time format.
    cd challenge1
 
 3.  run the python file 'app.py'.
-4.  Input files
+   
+4.  Input some values
 
 
